@@ -1,4 +1,4 @@
-package com.aziz.notificationservice.event;
+package com.aziz.orderservice.event;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
